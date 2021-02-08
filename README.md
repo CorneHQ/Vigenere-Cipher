@@ -13,3 +13,7 @@ The following requirements are needed to run the program
 
 ## License
 There's no license on this project, you can do anything you want to do with this project.
+
+## Credits to the people who helped with this project
+* [Yavuz Uca](https://www.linkedin.com/in/yavuz-uca-26aa72131/)
+* [Yannick de Vreede](https://github.com/yannickdv01)
